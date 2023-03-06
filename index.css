@@ -1,0 +1,51 @@
+.img {
+  margin-top: 100px;
+  background-image: url(foto2.png);
+  background-size: cover;
+  width: 100%;
+  height: 500px;
+  text-align: center;
+}
+
+.img h1 {
+  color: aliceblue;
+  border-radius: 10px;
+  border-color: aqua;
+  padding-top: 120px;
+}
+
+.img p {
+  color: aliceblue;
+  text-align: justify;
+  font-family: "Rampart One", cursive;
+}
+.arc {
+  background-color: #008080;
+  background-size: cover;
+  width: 100%;
+  height: 800px;
+}
+.cntct {
+  margin-top: 10%;
+  background-color: #008080;
+  height: 350px;
+  color: aliceblue;
+}
+
+.cntct .form {
+  margin-top: 2%;
+  margin-left: 30%;
+  margin-right: 30%;
+}
+.pntp {
+  margin-top: 200px;
+  background-color: #008080;
+  width: 100%;
+  height: 150px;
+}
+
+.pntp a {
+  margin: 15 px 0 0;
+  display: inline-block;
+  margin-right: 30px;
+}
